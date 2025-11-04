@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Conheça os projetos sociais da ONG Esperança Viva e saiba como participar.">
+  <meta name="author" content="Raiane Correa">
+  <title>Projetos - ONG Esperança Viva</title>
+</head>
+<body>
+  <header>
+    <h1>Projetos Sociais</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Início</a></li>
+        <li><a href="projetos.html">Projetos</a></li>
+        <li><a href="cadastro.html">Cadastre-se</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Nossos Projetos</h2>
+      <article>
+        <h3>Projeto Semeando Futuro</h3>
+        <img src="assets/img/projeto1.jpg" alt="Crianças em oficina de leitura do projeto Semeando Futuro">
+        <p>O projeto oferece reforço escolar e atividades culturais para crianças em situação de vulnerabilidade social.</p>
+      </article>
+
+      <article>
+        <h3>Projeto Mãos Unidas</h3>
+        <img src="assets/img/projeto2.jpg" alt="Voluntários distribuindo alimentos em comunidade">
+        <p>Iniciativa voltada à arrecadação e distribuição de cestas básicas e roupas para famílias carentes.</p>
+      </article>
+    </section>
+
+    <section>
+      <h2>Como Ajudar</h2>
+      <p>Você pode colaborar tornando-se um voluntário ou realizando uma doação. 
+      Cada gesto faz a diferença!</p>
+      <a href="cadastro.html">Clique aqui e cadastre-se para participar</a>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 ONG Esperança Viva - Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>

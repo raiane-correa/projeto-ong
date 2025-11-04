@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="ONG Esperança Viva - Projetos sociais, voluntariado e doações para transformar vidas.">
+  <meta name="keywords" content="ONG, voluntariado, doação, solidariedade, projetos sociais">
+  <meta name="author" content="Raiane Correa">
+  <title>ONG Esperança Viva</title>
+</head>
+<body>
+  <header>
+    <h1>ONG Esperança Viva</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Início</a></li>
+        <li><a href="projetos.html">Projetos</a></li>
+        <li><a href="cadastro.html">Cadastre-se</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Sobre Nós</h2>
+      <p>A <strong>ONG Esperança Viva</strong> atua desde 2010 com foco em educação, inclusão social e apoio a famílias em situação de vulnerabilidade. 
+      Nosso propósito é promover oportunidades e transformar realidades por meio de projetos sustentáveis.</p>
+      <img src="assets/img/equipe.jpg" alt="Equipe de voluntários da ONG Esperança Viva">
+    </section>
+
+    <section>
+      <h2>Missão, Visão e Valores</h2>
+      <ul>
+        <li><strong>Missão:</strong> Transformar vidas através da solidariedade e da educação.</li>
+        <li><strong>Visão:</strong> Ser referência em impacto social e voluntariado no Brasil.</li>
+        <li><strong>Valores:</strong> Empatia, Transparência e Comprometimento.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Contato</h2>
+      <p>Email: contato@ongesperancaviva.org</p>
+      <p>Telefone: (41) 99999-9999</p>
+      <p>Endereço: Rua da Esperança, 1200 - Curitiba/PR</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 ONG Esperança Viva - Todos os direitos reservados.</p>
+  </footer>
+</body>
+</html>
